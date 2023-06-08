@@ -9,7 +9,7 @@ Follow 3 steps below :
 Clone this repo using belows command
 
 ```bash
-   $ git clone https://github.com/YunusAPolash/express-boilerplate-for-start-projects
+   $ git clone https://github.com/YunusAPolash/ostad-assignment-10
 ```
 
 ## Step 2 :
@@ -36,3 +36,4 @@ Thanks for using our boiler plate to starting your projects.
 To run this project, you will need to add the following environment variables to your .env file
 
 `PORT`
+`DATABASE`
