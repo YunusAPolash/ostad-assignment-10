@@ -1,4 +1,4 @@
-# Get Start with Express JS Application Boilerplate
+# Assignment of OSTAD - Module 10
 
 Using this Boilerplate you can get start a quick project using express JS
 
@@ -37,3 +37,4 @@ To run this project, you will need to add the following environment variables to
 
 `PORT`
 `DATABASE`
+`JWT_SECRET`
