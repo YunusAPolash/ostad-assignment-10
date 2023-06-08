@@ -9,7 +9,7 @@ Follow 3 steps below :
 Clone this repo using belows command
 
 ```bash
-   $ git clone https://github.com/YunusAPolash/ostad-assignment-10
+   git clone https://github.com/YunusAPolash/ostad-assignment-10
 ```
 
 ## Step 2 :
@@ -17,7 +17,7 @@ Clone this repo using belows command
 Install all npm packages using this command
 
 ```bash
-   $ npm install
+   npm install
 ```
 
 ## Step 3 :
@@ -25,7 +25,7 @@ Install all npm packages using this command
 Configure the .env files and then run the application using
 
 ```bash
-   $ npm start
+   npm start
 ```
 
 Applications will run using developer dev dependency nodemon.
